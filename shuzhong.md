@@ -9,11 +9,11 @@
 |2|中远海运科技股份有限公司|![][pic2]|34383.0|34383.0|上海|3/10|
 |3|深圳市图元科技有限公司|![][pic3]|1306.8|1306.8|深圳|1/4|
 |4|北京东华合创科技有限公司|![][pic4]|688.1|688.1|北京|0/5|
-|5|北京环境有限公司|![][pic5]|14300.0|14300.0|北京|0/0|
-|6|江西展宇光伏科技有限公司|![][pic6]|13204.0|13204.0|江西省南昌市|1/1|
-|7|浙江华是科技股份有限公司|![][pic7]|1529.3|1529.3|浙江省杭州市|0/7|
-|8|讯飞智元信息科技有限公司|![][pic8]|596.0|596.0|北京|1/11|
-|9|中通服网络信息技术有限公司|![][pic9]|576.5|576.5|广西省昆明市|0/3|
+|5|浙江华是科技股份有限公司|![][pic6]|1529.3|1529.3|浙江省杭州市|0/7|
+|6|江西展宇光伏科技有限公司|![][pic5]|13204.0|13204.0|江西省南昌市|1/1|
+|7|讯飞智元信息科技有限公司|![][pic7]|596.0|596.0|北京|1/11|
+|8|中通服网络信息技术有限公司|![][pic8]|576.5|576.5|广西省昆明市|0/3|
+|9|北京环境有限公司|![][pic9]|14300.0|14300.0|北京|0/0|
 |10|安徽蓝盾光电子股份有限公司|![][pic10]|2105.0|2105.0|安徽省合肥市|12/33|
 
 ##### 名词解释
@@ -27,13 +27,13 @@
 * 诚信评分：
 * 买卖合同涉诉/总涉诉：
 
-[pic1]:https://github.com/miracle127/jianli/blob/master/综合评分：8.00.png
-[pic2]:https://github.com/miracle127/jianli/blob/master/综合评分：7.75.png
-[pic3]:https://github.com/miracle127/jianli/blob/master/综合评分：7.63.png
-[pic4]:https://github.com/miracle127/jianli/blob/master/综合评分：7.5.png
-[pic5]:https://github.com/miracle127/jianli/blob/master/%E7%BB%BC%E5%90%88%E8%AF%84%E5%88%86%EF%BC%9A7.5%20(1).png
-[pic6]:https://github.com/miracle127/jianli/blob/master/综合评分：7.44.png
-[pic7]:https://github.com/miracle127/jianli/blob/master/%E7%BB%BC%E5%90%88%E8%AF%84%E5%88%86%EF%BC%9A7.44%20(1).png
-[pic8]:https://github.com/miracle127/jianli/blob/master/综合评分：7.38.png
-[pic9]:https://github.com/miracle127/jianli/blob/master/%E7%BB%BC%E5%90%88%E8%AF%84%E5%88%86%EF%BC%9A7.38%20(1).png
-[pic10]:https://github.com/miracle127/jianli/blob/master/综合评分：7.19.png
+[pic1]:https://github.com/miracle127/jianli/blob/master/picture/1.png
+[pic2]:https://github.com/miracle127/jianli/blob/master/picture/2.png
+[pic3]:https://github.com/miracle127/jianli/blob/master/picture/3.png
+[pic4]:https://github.com/miracle127/jianli/blob/master/picture/4.png
+[pic5]:https://github.com/miracle127/jianli/blob/master/picture/5.png
+[pic6]:https://github.com/miracle127/jianli/blob/master/picture/6.png
+[pic7]:https://github.com/miracle127/jianli/blob/master/picture/7.png
+[pic8]:https://github.com/miracle127/jianli/blob/master/picture/8.png
+[pic9]:https://github.com/miracle127/jianli/blob/master/picture/9.png
+[pic10]:https://github.com/miracle127/jianli/blob/master/picture/10.png

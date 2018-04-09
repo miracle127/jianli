@@ -16,6 +16,13 @@
 |9|中通服网络信息技术有限公司|![][pic9]|576.5|576.5|广西省昆明市|
 |10|安徽蓝盾光电子股份有限公司|![][pic10]|2105.0|2105.0|安徽省合肥市|
 
+##### 名词解释
+0
+<font size=1>1</font>
+<font size=2>2</font>
+<font size=3>3</font>
+<font size=4>4</font>
+
 [pic1]:https://github.com/miracle127/jianli/blob/master/综合评分：8.00.png
 [pic2]:https://github.com/miracle127/jianli/blob/master/综合评分：7.75.png
 [pic3]:https://github.com/miracle127/jianli/blob/master/综合评分：7.63.png
